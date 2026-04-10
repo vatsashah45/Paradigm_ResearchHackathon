@@ -1,4 +1,11 @@
-# Paradigm Prediction Market Challenge — Strategy Attempts
+# Prediction Market Challenge — Optimization Arena
+
+> Part of the [Optimization Arena](https://www.optimizationarena.com/) hackathon by [Paradigm](https://www.paradigm.xyz/).  
+> Challenge page: [Prediction Market Challenge](https://www.optimizationarena.com/prediction-market-challenge)
+
+## About the Challenge
+
+The [Prediction Market Challenge](https://www.optimizationarena.com/prediction-market-challenge) tasks participants with building a Python market-making algorithm for a binary prediction market. You manage limit orders and trade a YES contract in a market with complex dynamics including Gaussian drift and Poisson jumps. The goal is to maximize returns by strategically quoting prices and managing risk in a FIFO limit order book. Strategies are scored by mean edge across simulations.
 
 ## Challenge
 Build a market-making strategy for a FIFO limit order book prediction market.

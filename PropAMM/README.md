@@ -1,7 +1,15 @@
-# Paradigm Optimization Arena — Prop AMM Challenge
+# Prop AMM Challenge — Optimization Arena
 
-**Author:** 0xVatsaShah  
-**Competition:** [arena.paradigm.xyz](https://arena.paradigm.xyz)
+> Part of the [Optimization Arena](https://www.optimizationarena.com/) hackathon by [Paradigm](https://www.paradigm.xyz/).  
+> Challenge page: [Prop AMM Competition](https://www.optimizationarena.com/prop-amm/about)
+
+**Author:** 0xVatsaShah
+
+## About the Challenge
+
+The [Prop AMM Challenge](https://www.optimizationarena.com/prop-amm) lets participants design custom Automated Market Maker strategies in Rust, compiled to Solana BPF bytecode. Unlike standard constant-product AMMs (like Uniswap v2), this competition gives you full control over the swap function—you write the logic that determines how much output any input/output swap produces given current reserves. The simulation is sophisticated, with volatility, retail flow, fees, and liquidity all randomized per simulation to prevent overfitting. Strategies are ranked by "edge," a measure of profit relative to the market's true price over 1,000 simulations.
+
+Proprietary AMMs (PropAMMs) are a rising paradigm in DeFi, especially on Solana, where they keep liquidity and logic private, update prices actively using oracles, and achieve much lower slippage than traditional AMMs.
 
 ## Competition Overview
 
