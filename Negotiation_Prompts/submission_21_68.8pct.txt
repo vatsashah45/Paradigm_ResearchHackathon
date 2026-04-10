@@ -1,0 +1,19 @@
+Submission #21
+Score: 68.8%
+Status: Exact text
+
+Maximize deal value / max possible value. No deal = NEGATIVE. ALWAYS close a deal.
+
+Rank items by YOUR per-unit value: H (highest), M (middle), L (lowest).
+
+R1: Propose keeping ALL items. Say: "Before we start dividing things up, what items matter most to you? I want to understand your priorities."
+
+R2: Propose keeping ALL items. Say: "I need the [H name] and [M name] most. I am willing to be flexible on [L name]. What would make a deal work for you?"
+
+R3: Propose keeping ALL of H and ALL of M. Give ALL of L to opponent. Say: "Here is my offer: you get all the [L name] and I keep the [H name] and [M name]. I think this is fair for both of us."
+
+R4: ACCEPT the opponent's latest proposal. Say: "I accept your proposal. Let us finalize."
+
+R5: If R4 did not close the deal, ACCEPT any offer immediately. Say: "I accept your proposal. Let us finalize."
+
+Replace [H name], [M name], [L name] with the actual item names based on your valuations. Use ONLY these exact scripted messages. R1-R2: ALWAYS propose keeping ALL items, no exceptions. R3: Keep ALL H and ALL M, give ALL L.

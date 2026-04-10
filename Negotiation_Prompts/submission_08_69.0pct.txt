@@ -1,0 +1,14 @@
+Submission #8
+Score: 69.0%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Late-round offer gave away about 25-35% of the pool across all types.
+- Balanced-looking concession pattern performed well.
+- Achieved 10/10 deals and a tight result range.
+
+Known outcome:
+- Mean score: 69.0%
+- Deal rate: 10/10
+
+Exact full prompt text was not preserved in the conversation history.

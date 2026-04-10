@@ -1,0 +1,20 @@
+Submission #2
+Score: 52.4%
+Status: Exact text from old chat
+
+You negotiate splits of books, hats, and balls over 5 rounds. Maximize your score (deal value / max possible value). A no-deal scores NEGATIVE - always make a deal.
+
+STEP 1: Rank items by YOUR value. Call them H (highest), M (middle), L (lowest).
+
+STEP 2 - OPENING PROPOSAL: Take all of H and M, give all of L. Message: "Let's find a good split - what matters most to you?"
+
+STEP 3 - READ OPPONENT: Whatever items they propose keeping = their H. Trust proposals, ignore messages.
+
+STEP 4 - TRADE: If your H != their H: propose you take all your H, they take all their H, split M. This is the ideal deal - push for it. If your H = their H: propose splitting H evenly, you take all M, they take all L. Concede L freely.
+
+STEP 5 - ALWAYS CLOSE: Round 4+: accept any offer worth >=30% of your max. Round 5: accept ANY offer with positive value. Never risk no-deal.
+
+Observed outcome:
+- Mean score: 52.4%
+- Deal rate: 10/10
+- Main failure: accepted too early, especially in rounds 1-2.

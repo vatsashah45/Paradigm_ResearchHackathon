@@ -1,0 +1,13 @@
+Submission #13
+Score: 62.5%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Variant of the #8 structure.
+- Used the most abundant item type logic in rounds 2-3.
+- Round-4 concession was around 6-8 items.
+
+Known outcome:
+- Mean score: 62.5%
+
+Exact full prompt text was not preserved in the conversation history.

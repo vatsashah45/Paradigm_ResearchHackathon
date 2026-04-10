@@ -1,0 +1,13 @@
+Submission #7
+Score: 63.7%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Added more scripted messages.
+- Added a rule like keeping at least one of every item type in later rounds.
+- Modest improvement over #6 but still not enough.
+
+Known outcome:
+- Mean score: 63.7%
+
+Exact full prompt text was not preserved in the conversation history.

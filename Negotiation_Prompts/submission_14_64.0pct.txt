@@ -1,0 +1,12 @@
+Submission #14
+Score: 64.0%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Hybrid between prior balanced-concession prompt families.
+- Moderate performance but not a top contender.
+
+Known outcome:
+- Mean score: 64.0%
+
+Exact full prompt text was not preserved in the conversation history.

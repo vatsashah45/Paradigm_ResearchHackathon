@@ -1,0 +1,14 @@
+Submission #17
+Score: 32.6%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Added explicit SWAP / CRITICAL RULE instructions to fix mirror bugs.
+- Backfired badly.
+- The model swapped in the wrong direction repeatedly.
+
+Known outcome:
+- Mean score: 32.6%
+- Main failure: mirror / swap instruction confusion.
+
+Exact full prompt text was not preserved in the conversation history.

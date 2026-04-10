@@ -1,0 +1,13 @@
+Submission #10
+Score: 58.9%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Added a round-5 re-proposal instead of immediate acceptance.
+- This extra logic increased complexity and underperformed.
+
+Known outcome:
+- Mean score: 58.9%
+- Main failure: worse endgame handling.
+
+Exact full prompt text was not preserved in the conversation history.

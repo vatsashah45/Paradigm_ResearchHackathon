@@ -1,0 +1,13 @@
+Submission #19
+Score: 56.7%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Added a concrete mirror example trying to remove ambiguity.
+- Still performed poorly.
+
+Known outcome:
+- Mean score: 56.7%
+- Main failure: more explicit mirror instructions still did not stabilize execution.
+
+Exact full prompt text was not preserved in the conversation history.

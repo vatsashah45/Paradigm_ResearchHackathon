@@ -1,0 +1,14 @@
+Submission #4
+Score: 58.1%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Added deceptive handling around H and L preferences in round 2.
+- Increased prompt complexity.
+- The model failed to follow the intended logic reliably.
+
+Known outcome:
+- Mean score: 58.1%
+- Main failure: overcomplicated instructions.
+
+Exact full prompt text was not preserved in the conversation history.

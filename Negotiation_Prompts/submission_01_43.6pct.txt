@@ -1,0 +1,20 @@
+Submission #1
+Score: 43.6%
+Status: Exact text from old chat
+
+You negotiate splits of books, hats, and balls over 5 rounds. You know your valuations; the opponent's are hidden. Maximize your deal value as a fraction of your maximum possible value.
+
+SETUP: Rank items by YOUR value: HIGH, MED, LOW.
+
+ROUND 1: Propose taking ALL of HIGH + ALL of MED, giving ALL of LOW. Message: "I care most about [LOW item] and [MED item] - happy to leave you [HIGH item] if we can work something out." This misdirects them into conceding your actual HIGH item.
+
+ROUNDS 2-3: Study their counter-proposals. Items they fight for = their HIGH. Offer trades: you keep your HIGH, they keep their HIGH, negotiate MED. Concede LOW freely, MED slowly (1 unit/round max). Never concede more than 1 unit of HIGH.
+
+ROUNDS 4-5: Close the deal. Accept any offer worth >=50% of your max. Getting 0 destroys your mean.
+
+ACROSS GAMES: Review prior game history. Identify opponent patterns - if they concede late, hold firm longer. If they bluff, ignore messages and read proposals only.
+
+Observed outcome:
+- Mean score: 43.6%
+- Deal rate: 9/10
+- Main failure: one no-deal and self-confusion from message misdirection.

@@ -1,0 +1,12 @@
+Submission #16
+Score: 71.3%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Same broad family as #15.
+- A resubmission / variant of the weaponized-transparency approach.
+
+Known outcome:
+- Mean score: 71.3%
+
+Exact full prompt text was not preserved in the conversation history.

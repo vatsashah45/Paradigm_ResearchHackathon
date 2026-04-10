@@ -1,0 +1,13 @@
+Submission #11
+Score: 43.8%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Reverse-engineered from another player and included a dangerous round-5 "do not accept" style behavior.
+- This caused multiple no-deals.
+
+Known outcome:
+- Mean score: 43.8%
+- Main failure: 2 no-deals, which was catastrophic.
+
+Exact full prompt text was not preserved in the conversation history.

@@ -1,0 +1,13 @@
+Submission #12
+Score: 65.3%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Tight round-4 offer with only about 4-5 items conceded.
+- Safe round-5 immediate accept fallback.
+- Round-4 offer was still too tight to get accepted often.
+
+Known outcome:
+- Mean score: 65.3%
+
+Exact full prompt text was not preserved in the conversation history.

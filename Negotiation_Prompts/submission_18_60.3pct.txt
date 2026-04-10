@@ -1,0 +1,12 @@
+Submission #18
+Score: 60.3%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Another run / variant in the weaponized-transparency family.
+- Underperformed relative to expectation.
+
+Known outcome:
+- Mean score: 60.3%
+
+Exact full prompt text was not preserved in the conversation history.

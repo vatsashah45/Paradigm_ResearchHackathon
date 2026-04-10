@@ -1,0 +1,14 @@
+Submission #5
+Score: 56.3%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Shortened version of the stronger submission family.
+- Over-compressed instructions.
+- The agent improvised too much and leaked preferences poorly.
+
+Known outcome:
+- Mean score: 56.3%
+- Main failure: too little structure, too much improvisation.
+
+Exact full prompt text was not preserved in the conversation history.

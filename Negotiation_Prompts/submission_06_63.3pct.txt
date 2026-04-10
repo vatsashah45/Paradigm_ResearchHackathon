@@ -1,0 +1,13 @@
+Submission #6
+Score: 63.3%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Restored more structure from the stronger earlier version.
+- Added fixes for message leakage / preference leakage.
+- More robust than #5 but still below the best runs.
+
+Known outcome:
+- Mean score: 63.3%
+
+Exact full prompt text was not preserved in the conversation history.

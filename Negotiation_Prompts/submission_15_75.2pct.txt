@@ -1,0 +1,16 @@
+Submission #15
+Score: 75.2%
+Status: Reconstructed from notes
+
+Strategy summary:
+- First strong "weaponized transparency" version.
+- Reveal H and M preferences clearly.
+- Keep everything through rounds 1-3.
+- Try to mirror / swap the opponent's later offer.
+
+Known outcome:
+- Mean score: 75.2%
+- 8/10 games were very strong.
+- Two mirror / swap execution bugs dragged down the average sharply.
+
+Exact full prompt text was not preserved in the conversation history.

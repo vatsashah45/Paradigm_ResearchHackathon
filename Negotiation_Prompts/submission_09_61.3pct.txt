@@ -1,0 +1,14 @@
+Submission #9
+Score: 61.3%
+Status: Reconstructed from notes
+
+Strategy summary:
+- Tightened the round-4 concession to about 20-25% with exact counts.
+- Became too stingy.
+- Round-4 offers were not accepted often enough.
+
+Known outcome:
+- Mean score: 61.3%
+- Main failure: round-4 offer too narrow.
+
+Exact full prompt text was not preserved in the conversation history.
