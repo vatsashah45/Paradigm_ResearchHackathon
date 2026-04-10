@@ -1,8 +1,15 @@
-# Attention Kernel Challenge — Paradigm Automated Research Hackathon
+# Attention Kernel Challenge — Optimization Arena
+
+> Part of the [Optimization Arena](https://www.optimizationarena.com/) hackathon by [Paradigm](https://www.paradigm.xyz/).  
+> Official challenge repo: [paradigmxyz/attention-kernel-challenge](https://github.com/paradigmxyz/attention-kernel-challenge)
 
 **Challenge:** Build the fastest numerically faithful block-sparse attention backend for H100.  
 **Author:** @0xVatsaShah  
 **Best Score:** 11.73ms (v11, #16 on leaderboard)
+
+## About the Challenge
+
+The [Attention Kernel Challenge](https://www.optimizationarena.com/) focuses on optimizing block-sparse attention—a critical component for scaling large transformer models. Block-sparse attention partitions input into blocks and computes attention only over a predefined sparsity pattern, dramatically reducing computational cost for long sequences. Solutions are benchmarked on [Modal](https://modal.com/)'s remote H100 GPUs for accurate performance measurement and ranked by measured latency (lower is better) after numerical correctness checks.
 
 ## Challenge Details
 
